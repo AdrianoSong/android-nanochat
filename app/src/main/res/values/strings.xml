@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NanoChat</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_logout">Log Out</string>
+    <string name="btnSend">Enviar</string>
+    <string name="hintEditMessage">Escreva sua mensagem</string>
+</resources>
